@@ -1,0 +1,66 @@
+
+@baseUrl = http://localhost:4000/api
+@resourceName=products
+# @name getAllCategories
+
+# Products
+
+GET  {{baseUrl}}/{{resourceName}}
+
+###
+
+# @name filterProducts
+GET  {{baseUrl}}/{{resourceName}}?price_gte=250
+###
+
+# @name searchWithName
+GET  {{baseUrl}}/{{resourceName}}?name_like=rustic
+
+###
+
+# @name pagination
+GET  {{baseUrl}}/{{resourceName}}?_page=1&_limit=5
+
+###
+
+# @name sort
+GET  {{baseUrl}}/{{resourceName}}?_sort=price&_order=asc
+
+
+###
+
+# @name addNew
+POST   {{baseUrl}}/{{resourceName}}
+Content-Type: application/json
+
+ {
+    "categoryId": "dc04fbae-b632-4c8b-9d48-5ecb0e6e799c",
+    "name": "Intelligent Fresh Moto",
+    "color": "turquoise",
+    "price": 461,
+    "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+    "thumbnailUrl": "http://placeimg.com/400/400"
+  }
+
+### 
+
+# @name update
+PATCH   {{baseUrl}}/{{resourceName}}/mjPR_R1
+Content-Type: application/json
+
+ {
+  
+    "price": 463
+  
+  }
+
+
+### 
+
+# @name remove
+DELETE    {{baseUrl}}/{{resourceName}}/2
+Content-Type: application/json
+
+{
+    "name": "Fast Food"
+}

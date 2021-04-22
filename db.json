@@ -1,0 +1,264 @@
+{
+  "categories": [
+    {
+      "id": "dc04fbae-b632-4c8b-9d48-5ecb0e6e799c",
+      "name": "Shoes",
+      "createdAt": 1618821057966,
+      "updatedAt": 1618821057966
+    },
+    {
+      "id": "7ac9edf4-c5c3-426e-b02f-645648af2f86",
+      "name": "Electronics",
+      "createdAt": 1618821057966,
+      "updatedAt": 1618821057966
+    },
+    {
+      "id": "6e3f5610-d6ca-40a4-a65b-45bdc09e3c85",
+      "name": "Books",
+      "createdAt": 1618821057966,
+      "updatedAt": 1618821057966
+    },
+    {
+      "id": "9b0f69ff-ce21-46ec-a8d3-cf8c07312863",
+      "name": "Automotive",
+      "createdAt": 1618821057966,
+      "updatedAt": 1618821057966
+    }
+  ],
+  "products": [
+    {
+      "categoryId": "dc04fbae-b632-4c8b-9d48-5ecb0e6e799c",
+      "id": "c70f3975-c11a-4f5d-8fb3-52af158c67d7",
+      "name": "Intelligent Fresh Bike",
+      "color": "turquoise",
+      "price": 46,
+      "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+      "createdAt": 1618821057966,
+      "updatedAt": 1618821057966,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "dc04fbae-b632-4c8b-9d48-5ecb0e6e799c",
+      "id": "c1416a26-bca9-4816-87d6-29abd6089702",
+      "name": "Tasty Fresh Table",
+      "color": "black",
+      "price": 198,
+      "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+      "createdAt": 1618821057966,
+      "updatedAt": 1618821057966,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "dc04fbae-b632-4c8b-9d48-5ecb0e6e799c",
+      "id": "3c840bb1-02fd-4d72-a210-1f10e63df1c7",
+      "name": "Rustic Rubber Gloves",
+      "color": "purple",
+      "price": 553,
+      "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+      "createdAt": 1618821057966,
+      "updatedAt": 1618821057966,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "dc04fbae-b632-4c8b-9d48-5ecb0e6e799c",
+      "id": "6e97affe-f976-485d-922c-cf4e3a9e5618",
+      "name": "Rustic Rubber Bacon",
+      "color": "green",
+      "price": 274,
+      "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+      "createdAt": 1618821057966,
+      "updatedAt": 1618821057966,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "dc04fbae-b632-4c8b-9d48-5ecb0e6e799c",
+      "id": "fe0d4b7a-4d5a-43f3-a7eb-f2bf8fc5dcae",
+      "name": "Rustic Granite Ball",
+      "color": "tan",
+      "price": 439,
+      "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+      "createdAt": 1618821057967,
+      "updatedAt": 1618821057967,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "7ac9edf4-c5c3-426e-b02f-645648af2f86",
+      "id": "fec89c10-386f-4d36-89ea-f621a20ff101",
+      "name": "Unbranded Granite Gloves",
+      "color": "maroon",
+      "price": 93,
+      "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+      "createdAt": 1618821057967,
+      "updatedAt": 1618821057967,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "7ac9edf4-c5c3-426e-b02f-645648af2f86",
+      "id": "1ff744f9-58c5-47d8-83b9-1fa53c3e7eef",
+      "name": "Generic Frozen Hat",
+      "color": "fuchsia",
+      "price": 299,
+      "description": "The Football Is Good For Training And Recreational Purposes",
+      "createdAt": 1618821057967,
+      "updatedAt": 1618821057967,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "7ac9edf4-c5c3-426e-b02f-645648af2f86",
+      "id": "8b9faf30-ee2d-4000-ab7a-ad97d6ad2b81",
+      "name": "Unbranded Fresh Chicken",
+      "color": "olive",
+      "price": 57,
+      "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+      "createdAt": 1618821057967,
+      "updatedAt": 1618821057967,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "7ac9edf4-c5c3-426e-b02f-645648af2f86",
+      "id": "e0999a1f-f635-45c2-89a3-03e0d6b9d31a",
+      "name": "Tasty Soft Bacon",
+      "color": "teal",
+      "price": 1000,
+      "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+      "createdAt": 1618821057967,
+      "updatedAt": 1618821057967,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "7ac9edf4-c5c3-426e-b02f-645648af2f86",
+      "id": "ef369069-2a94-4e16-8748-46e700322ce5",
+      "name": "Small Metal Tuna",
+      "color": "olive",
+      "price": 513,
+      "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+      "createdAt": 1618821057967,
+      "updatedAt": 1618821057967,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "6e3f5610-d6ca-40a4-a65b-45bdc09e3c85",
+      "id": "a824ca90-974b-4197-b451-2305fbd0f6dd",
+      "name": "Refined Plastic Ball",
+      "color": "purple",
+      "price": 594,
+      "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+      "createdAt": 1618821057967,
+      "updatedAt": 1618821057967,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "6e3f5610-d6ca-40a4-a65b-45bdc09e3c85",
+      "id": "5054cf1f-2626-4867-a193-d4705d12b256",
+      "name": "Small Wooden Sausages",
+      "color": "ivory",
+      "price": 810,
+      "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+      "createdAt": 1618821057967,
+      "updatedAt": 1618821057967,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "6e3f5610-d6ca-40a4-a65b-45bdc09e3c85",
+      "id": "97331629-abe5-4d76-a522-ee5e88bbf4ca",
+      "name": "Handmade Concrete Bike",
+      "color": "turquoise",
+      "price": 244,
+      "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+      "createdAt": 1618821057967,
+      "updatedAt": 1618821057967,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "6e3f5610-d6ca-40a4-a65b-45bdc09e3c85",
+      "id": "7bb757b7-d591-4c35-8924-b5bd350f398a",
+      "name": "Sleek Rubber Chicken",
+      "color": "pink",
+      "price": 572,
+      "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+      "createdAt": 1618821057967,
+      "updatedAt": 1618821057967,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "6e3f5610-d6ca-40a4-a65b-45bdc09e3c85",
+      "id": "ed3e684c-0ac5-4bf7-8043-69715bea471d",
+      "name": "Ergonomic Wooden Soap",
+      "color": "pink",
+      "price": 788,
+      "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+      "createdAt": 1618821057967,
+      "updatedAt": 1618821057967,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "9b0f69ff-ce21-46ec-a8d3-cf8c07312863",
+      "id": "f134ca53-1740-47c9-a01e-df97434b64ff",
+      "name": "Refined Metal Chips",
+      "color": "lavender",
+      "price": 111,
+      "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+      "createdAt": 1618821057967,
+      "updatedAt": 1618821057967,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "9b0f69ff-ce21-46ec-a8d3-cf8c07312863",
+      "id": "f1f54d9d-5528-4a9b-8c3a-60f915fa7f9d",
+      "name": "Rustic Plastic Soap",
+      "color": "turquoise",
+      "price": 537,
+      "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+      "createdAt": 1618821057967,
+      "updatedAt": 1618821057967,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "9b0f69ff-ce21-46ec-a8d3-cf8c07312863",
+      "id": "3cb612af-5267-4d36-a831-af4838d898bb",
+      "name": "Generic Concrete Mouse",
+      "color": "plum",
+      "price": 710,
+      "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+      "createdAt": 1618821057967,
+      "updatedAt": 1618821057967,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "9b0f69ff-ce21-46ec-a8d3-cf8c07312863",
+      "id": "186c6576-b3e7-4225-ad6a-0ce34c98acd5",
+      "name": "Generic Rubber Chips",
+      "color": "blue",
+      "price": 398,
+      "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+      "createdAt": 1618821057967,
+      "updatedAt": 1618821057967,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "9b0f69ff-ce21-46ec-a8d3-cf8c07312863",
+      "id": "8625a37f-06df-44df-a86c-2668f162c94d",
+      "name": "Ergonomic Cotton Computer",
+      "color": "ivory",
+      "price": 806,
+      "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+      "createdAt": 1618821057967,
+      "updatedAt": 1618821057967,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "dc04fbae-b632-4c8b-9d48-5ecb0e6e799c",
+      "name": "Intelligent Fresh Moto",
+      "color": "turquoise",
+      "price": 463,
+      "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+      "thumbnailUrl": "http://placeimg.com/400/400",
+      "createdAt": 1618823192004,
+      "updateAt": 1618823254620,
+      "id": "mjPR_R1"
+    }
+  ],
+  "profile": {
+    "name": "Hy"
+  }
+}
